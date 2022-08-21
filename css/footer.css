@@ -1,10 +1,57 @@
+/*
 footer {
     display: flex;
     background: #ffffdc;
-    padding: 5px;
     color: black;
     line-height: 50px;
-    padding: 0 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+*/
+
+.footer_01 {
+    display: flex;
+    background: #fffd7a;
+    color: black;
+    line-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.footer_02 {
+    display: flex;
+    background: #fffd9d;
+    color: black;
+    line-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.footer_03 {
+    display: flex;
+    background: #fffebf;
+    color: black;
+    line-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.footer_04 {
+    display: flex;
+    background: #fffebf;
+    color: black;
+    line-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.footer_05 {
+    display: flex;
+    background: #ffffff;
+    color: black;
+    line-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 html {

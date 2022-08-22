@@ -67,3 +67,7 @@ body {
     grid-template-rows: 1fr auto;
 }
 
+.gradient
+{
+  background-image: linear-gradient(#fffc04, #fffc04, white);
+}
